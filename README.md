@@ -1,5 +1,5 @@
 # ChatGPT-Sidebar
-Tutorials for using ChatGPT
+## Tutorials for using ChatGPT
 
 This is the repo for the lessons in the ChatGPT sidebar tutorial application.
 
